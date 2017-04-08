@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
             }
         } else {
-            // This is important, otherwise the result will not be passed to the fragment
+            // This is important, otherwise the result will not be passed to the Activity
             super.onActivityResult(requestCode, resultCode, intent);
         }
     }
