@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PortraitModeScanner</string>
+    <string name="scan">Scan</string>
+    <string name="barcode">Barcode</string>
+</resources>

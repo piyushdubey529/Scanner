@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/PortraitModeScanner/zxing-android-embedded/build/intermediates/res/merged/debug/layout/zxing_capture.xml",
+        "source": "/home/piyush/AndroidStudioProjects/PortraitModeScanner/zxing-android-embedded/res/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/PortraitModeScanner/zxing-android-embedded/build/intermediates/res/merged/debug/layout/zxing_barcode_scanner.xml",
+        "source": "/home/piyush/AndroidStudioProjects/PortraitModeScanner/zxing-android-embedded/res/layout/zxing_barcode_scanner.xml"
+    }
+]
